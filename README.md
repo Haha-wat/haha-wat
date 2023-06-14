@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there👋
 
-<!--
-**Haha-wat/haha-wat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+ - To Be Added
+ 
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Technologies & Tools
+- Programming Languages: Java, Javascript, C#, Python
+- Frameworks & Libaries: SpigotAPI, BukkitAPI, JDA, Discord.py, ForgeMDK
+- Databases: MongoDB, MySQL
+- Tools & Platforms: VSCode, Intellij, Notepad++, Eclipse
+- HTML: Intermediate
+- CSS: Intermediate
+
+<hr>
+
+### 📫 Contact
+- Discord: pleumz#7870
+
+<hr>
+
+### 🖥️Social Media
+- 🎬Youtube: https://www.youtube.com/channel/UC_FfFUhp91EqJFM2xd4QPYg 
+- 🟠Reddit: https://www.reddit.com/user/haha_wat
+- 💾GitHub: https://github.com/haha-wat
