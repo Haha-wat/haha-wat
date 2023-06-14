@@ -25,4 +25,4 @@
 ### 🖥️Social Media
 - 🎬Youtube: https://www.youtube.com/channel/UC_FfFUhp91EqJFM2xd4QPYg 
 - 🟠Reddit: https://www.reddit.com/user/haha_wat
-- 💾GitHub: https://github.com/haha-wat
+- 💾GitHub: https://github.com/Haha-wat
