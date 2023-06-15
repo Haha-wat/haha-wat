@@ -18,7 +18,7 @@
 <hr>
 
 ### 📫 Contact
-- Discord: pleumz#7870
+- Discord: pleumz
 
 <hr>
 
