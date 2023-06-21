@@ -3,7 +3,7 @@
 <hr>
 
 ## 🔭 Current Projects
- - To Be Added
+ - To Be Added (never)
  
 <hr>
 
