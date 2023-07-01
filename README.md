@@ -15,7 +15,7 @@
 - HTML: Intermediate
 - CSS: Intermediate
 
-<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=haha-wat&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=haha-wat&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=radical">
 
 <hr>
 
