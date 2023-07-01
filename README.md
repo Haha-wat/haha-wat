@@ -15,6 +15,8 @@
 - HTML: Intermediate
 - CSS: Intermediate
 
+<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haha-wat&layout=compact&hide_border=true&hide_border=true&bg_color=0d1117&text_color=ffffff">
+
 <hr>
 
 ### 📫 Contact
