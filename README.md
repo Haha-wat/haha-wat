@@ -8,12 +8,10 @@
 <hr>
 
 ### 🌱 Technologies & Tools
-- Programming Languages: Java, Javascript, C#, Python
-- Frameworks & Libaries: SpigotAPI, BukkitAPI, JDA, Discord.py, ForgeMDK
+- Programming Languages: Java, Javascript, C#, Python, HTML, CSS
+- Frameworks & Libraries: SpigotAPI, BukkitAPI, JDA, Discord.py, ForgeMDK, jQuery, Bootstrap
 - Databases: MongoDB, MySQL
 - Tools & Platforms: VSCode, Intellij, Notepad++, Eclipse
-- HTML: Intermediate
-- CSS: Intermediate
   
 <hr>
 
