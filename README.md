@@ -16,7 +16,7 @@
 <hr>
 
 ### 📫 Contact
-- Discord: pleumz
+- Discord: operating_system
 
 <hr>
 
