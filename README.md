@@ -8,7 +8,7 @@
 <hr>
 
 ### 🌱 Technologies & Tools
-- Programming Languages: Java, Javascript, C#, Python, HTML, CSS
+- Programming Languages: Java, Javascript, C#, Python, HTML, CSS, C
 - Frameworks & Libraries: SpigotAPI, BukkitAPI, JDA, Discord.py, ForgeMDK, jQuery, Bootstrap
 - Databases: MongoDB, MySQL
 - Tools & Platforms: VSCode, Intellij, Notepad++, Eclipse
